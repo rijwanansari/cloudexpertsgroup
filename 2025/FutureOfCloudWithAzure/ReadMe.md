@@ -1,4 +1,6 @@
 ## Future of Cloud with Azure – Learn, Build, Scale
+![Future of Cloud with Azure - All Speakers Banner](https://github.com/user-attachments/assets/2fb184b2-cea2-4da2-8f9f-9ff51f9ec55c)
+
 # Details
 Future of Cloud with Azure is an exclusive tech event designed to bring together cloud and AI developers, IT professionals, architects, students, and business leaders to explore how Microsoft Azure is driving the next era of digital and AI transformation.
 Join us for a hybrid experience where you'll gain hands-on insights into the latest Azure services, tools, and practices that help you build intelligent, scalable, and resilient cloud applications. Whether you’re just getting started or scaling enterprise-grade solutions, this event is your gateway to the future of cloud.
